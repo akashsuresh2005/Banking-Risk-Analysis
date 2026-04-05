@@ -43,7 +43,7 @@ Visual Intelligence: Created a comprehensive Power BI dashboard that allows non-
 ## How to Use
 ### 1. Clone the Repository
 Bash
-git clone https://github.com/YourUsername/Banking-Risk-Analysis.git
+git clone https://github.com/akashsuresh2005/Banking-Risk-Analysis.git
 ### 2. Python Analysis
 Navigate to the Analysis.ipynb file.
 
